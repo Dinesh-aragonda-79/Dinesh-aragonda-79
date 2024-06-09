@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #6a11cb;">Hi 👋, I'm Dinesh</h1>
-<h3 align="center" style="color: #2575fc;">A Competitive Programmer and ML Enthusiast</h3>
+<h3 align="center" style="color: #2575fc;">Competitive Programmer and ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding Gif">
@@ -46,17 +46,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
-</p>
-
----
-
-<h3 align="center" style="color: #2575fc;">Hobbies:</h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Chess_piece_-_Black_Queen.svg" alt="Chess" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Rubik's_cube.svg" alt="Rubik's Cube" width="40" height="40" />
-</p>
-<p align="center">
-  <strong>Chess, Rubik's Cube Solving</strong>
 </p>
 
 ---
