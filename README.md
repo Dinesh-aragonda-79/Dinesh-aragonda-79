@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dinesh</h1>
-<h3 align="center">A Competitive Programmer and ML Enthusiast</h3>
+<h1 align="center" style="color: #6a11cb;">Hi 👋, I'm Dinesh</h1>
+<h3 align="center" style="color: #2575fc;">A Competitive Programmer and ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding Gif">
 </p>
 
-- 🔭 I’m currently working on **code tracker website**
-- 🌱 I’m currently learning **Tensorflow**
-- 💬 Ask me about **C++, Python, Machine Learning**
-- 📫 How to reach me **dinesharagonda79@gmail.com**
+<ul style="list-style: none; text-align: center;">
+  <li>🔭 I’m currently working on <strong>code tracker website</strong></li>
+  <li>🌱 I’m currently learning <strong>Tensorflow</strong></li>
+  <li>💬 Ask me about <strong>C++, Python, Machine Learning</strong></li>
+  <li>📫 How to reach me <strong>dinesharagonda79@gmail.com</strong></li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center" style="color: #6a11cb;">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/dinesh-aragonda" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -23,8 +25,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center" style="color: #2575fc;">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -57,10 +59,10 @@
   </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-aragonda-79&show_icons=true&locale=en&layout=compact" alt="Dinesh's Top Languages" />
+<h3 align="center" style="color: #6a11cb;">My GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-aragonda-79&show_icons=true&locale=en&layout=compact" alt="Dinesh's Top Languages" />
 </p>
-<p>&nbsp;
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-aragonda-79&show_icons=true&locale=en" alt="Dinesh's GitHub Stats" />
 </p>
