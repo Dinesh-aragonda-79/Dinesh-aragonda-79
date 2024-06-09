@@ -14,11 +14,10 @@
             color: #333;
             margin: 0;
             padding: 20px;
-        }
-
-        h1,
-        h3 {
-            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
         }
 
         .container {
@@ -28,22 +27,20 @@
             padding: 20px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
+            text-align: center;
         }
 
-        .social-icons a {
-            margin: 0 10px;
-            transition: transform 0.3s ease;
+        h1, h3 {
+            margin: 10px 0;
         }
 
-        .social-icons a:hover {
-            transform: scale(1.1);
-        }
-
+        .social-icons a,
         .skills img {
             margin: 10px;
             transition: transform 0.3s ease;
         }
 
+        .social-icons a:hover,
         .skills img:hover {
             transform: scale(1.1);
         }
@@ -61,7 +58,6 @@
             from {
                 opacity: 0;
             }
-
             to {
                 opacity: 1;
             }
@@ -72,29 +68,29 @@
         }
 
         @keyframes bounce {
-            0%,
-            20%,
-            50%,
-            80%,
-            100% {
+            0%, 20%, 50%, 80%, 100% {
                 transform: translateY(0);
             }
-
             40% {
                 transform: translateY(-30px);
             }
-
             60% {
                 transform: translateY(-15px);
             }
+        }
+
+        .gradient {
+            background: linear-gradient(45deg, #6a11cb 0%, #2575fc 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1 class="animate-fade-in">Hi 👋, I'm Dinesh</h1>
-        <h3 class="animate-fade-in">A Competitive Programmer and ML Enthusiast</h3>
+        <h1 class="animate-fade-in gradient">Hi 👋, I'm Dinesh</h1>
+        <h3 class="animate-fade-in gradient">A Competitive Programmer and ML Enthusiast</h3>
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="400" alt="Coding Gif" class="animate-fade-in">
 
         <ul>
@@ -104,7 +100,7 @@
             <li>📫 How to reach me <strong>dinesharagonda79@gmail.com</strong></li>
         </ul>
 
-        <h3>Connect with me:</h3>
+        <h3 class="gradient">Connect with me:</h3>
         <p class="social-icons">
             <a href="https://linkedin.com/in/dinesh-aragonda" target="_blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -117,7 +113,7 @@
             </a>
         </p>
 
-        <h3>Languages and Tools:</h3>
+        <h3 class="gradient">Languages and Tools:</h3>
         <p class="skills">
             <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -151,12 +147,23 @@
             </a>
         </p>
 
-        <h3>My GitHub Stats:</h3>
+        <h3 class="gradient">My GitHub Stats:</h3>
         <p class="stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-aragonda-79&show_icons=true&locale=en&layout=compact" alt="Dinesh's Top Languages" class="animate-fade-in">
             <img src="https://github-readme-stats.vercel.app/api?username=dinesh-aragonda-79&show_icons=true&locale=en" alt="Dinesh's GitHub Stats" class="animate-fade-in">
         </p>
     </div>
 </body>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const gradientTextElements = document.querySelectorAll('.gradient');
+        gradientTextElements.forEach(element => {
+            element.style.background = 'linear-gradient(45deg, #6a11cb, #2575fc)';
+            element.style.webkitBackgroundClip = 'text';
+            element.style.webkitTextFillColor = 'transparent';
+        });
+    });
+</script>
 
 </html>
