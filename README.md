@@ -52,8 +52,8 @@
 
 <h3 align="center" style="color: #2575fc;">Hobbies:</h3>
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/chess.png" alt="Chess" width="40" height="40" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/rubik's-cube.png" alt="Rubik's Cube" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Chess_piece_-_Black_Queen.svg" alt="Chess" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Rubik's_cube.svg" alt="Rubik's Cube" width="40" height="40" />
 </p>
 <p align="center">
   <strong>Chess, Rubik's Cube Solving</strong>
