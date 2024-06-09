@@ -5,23 +5,14 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding Gif">
 </p>
 
-- 🔭 I’m currently working on **code tracker website**
-- 🌱 I’m currently learning **Tensorflow**
-- 💬 Ask me about **C++, Python, Machine Learning**
-- 📫 How to reach me **dinesharagonda79@gmail.com**
+---
 
-<h3 align="center" style="color: #6a11cb;">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/dinesh-aragonda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/dinesh.aragonda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dinesh_aragonda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+- 🔭 I’m currently working on a **code tracker website**
+- 🌱 I’m currently learning **TensorFlow**
+- 💬 Feel free to ask me about **C++, Python, Machine Learning**
+- 📫 You can reach me at **dinesharagonda79@gmail.com**
+
+---
 
 <h3 align="center" style="color: #2575fc;">Languages and Tools:</h3>
 <p align="center">
@@ -54,5 +45,31 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center" style="color: #2575fc;">Hobbies:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/chess/chess.png" alt="Chess" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/rubikscube/rubikscube.png" alt="Rubik's Cube" width="40" height="40" />
+</p>
+<p align="center">
+  <strong>Chess, Rubik's Cube Solving</strong>
+</p>
+
+---
+
+<h3 align="center" style="color: #6a11cb;">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/dinesh-aragonda" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/dinesh.aragonda" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/dinesh_aragonda" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
