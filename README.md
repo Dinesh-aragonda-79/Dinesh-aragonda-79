@@ -1,5 +1,5 @@
-# Hi 👋, I'm Dinesh
-### Competitive Programmer and ML Enthusiast
+<h1 align="center" style="color: #6a11cb;">Hi 👋, I'm Dinesh</h1>
+<h3 align="center" style="color: #2575fc;">Competitive Programmer and ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding Gif">
@@ -14,7 +14,7 @@
 
 ---
 
-### Languages and Tools:
+<h3 align="center" style="color: #2575fc;">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -50,7 +50,7 @@
 
 ---
 
-### Connect with me:
+<h3 align="center" style="color: #6a11cb;">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/dinesh-aragonda" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
